@@ -1,4 +1,6 @@
-example/log/*.log
-example/tmp/**/*
+log/*.log
+tmp/**/*
 .DS_Store
-example/.rake_tasks~
+.rake_tasks~
+db/*.sqlite3
+
